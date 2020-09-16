@@ -1,0 +1,57 @@
+/Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/cmake-build-debug/R2ComputerEnsyu
+Input s: 3
+Input x: 1
+Input y: 1
+*
+**
+***
+
+Process finished with exit code 0
+
+/Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/cmake-build-debug/R2ComputerEnsyu
+Input s: 4
+Input x: 3
+Input y: 2
+*    *    *
+**   **   **
+***  ***  ***
+**** **** ****
+*    *    *
+**   **   **
+***  ***  ***
+**** **** ****
+
+Process finished with exit code 0
+
+/Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/cmake-build-debug/R2ComputerEnsyu
+Input s: 2
+Input x: 5
+Input y: 3
+*  *  *  *  *
+** ** ** ** **
+*  *  *  *  *
+** ** ** ** **
+*  *  *  *  *
+** ** ** ** **
+
+Process finished with exit code 0
+
+/Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/cmake-build-debug/R2ComputerEnsyu
+Input s: 1
+Input x: 1
+Input y: 1
+*
+
+Process finished with exit code 0
+
+/Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/cmake-build-debug/R2ComputerEnsyu
+Input s: 1
+Input x: 5
+Input y: 5
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+Process finished with exit code 0

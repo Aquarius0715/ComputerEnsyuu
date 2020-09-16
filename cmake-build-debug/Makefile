@@ -143,32 +143,32 @@ R2ComputerEnsyu/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/R2ComputerEnsyu.dir/build.make CMakeFiles/R2ComputerEnsyu.dir/build
 .PHONY : R2ComputerEnsyu/fast
 
-main.o: main.c.o
+ComputerEnsyuu.o: ComputerEnsyuu.c.o
 
-.PHONY : main.o
+.PHONY : ComputerEnsyuu.o
 
 # target to build an object file
-main.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/R2ComputerEnsyu.dir/build.make CMakeFiles/R2ComputerEnsyu.dir/main.c.o
-.PHONY : main.c.o
+ComputerEnsyuu.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/R2ComputerEnsyu.dir/build.make CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.o
+.PHONY : ComputerEnsyuu.c.o
 
-main.i: main.c.i
+ComputerEnsyuu.i: ComputerEnsyuu.c.i
 
-.PHONY : main.i
+.PHONY : ComputerEnsyuu.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/R2ComputerEnsyu.dir/build.make CMakeFiles/R2ComputerEnsyu.dir/main.c.i
-.PHONY : main.c.i
+ComputerEnsyuu.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/R2ComputerEnsyu.dir/build.make CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.i
+.PHONY : ComputerEnsyuu.c.i
 
-main.s: main.c.s
+ComputerEnsyuu.s: ComputerEnsyuu.c.s
 
-.PHONY : main.s
+.PHONY : ComputerEnsyuu.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/R2ComputerEnsyu.dir/build.make CMakeFiles/R2ComputerEnsyu.dir/main.c.s
-.PHONY : main.c.s
+ComputerEnsyuu.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/R2ComputerEnsyu.dir/build.make CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.s
+.PHONY : ComputerEnsyuu.c.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... R2ComputerEnsyu"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... ComputerEnsyuu.o"
+	@echo "... ComputerEnsyuu.i"
+	@echo "... ComputerEnsyuu.s"
 .PHONY : help
 
 

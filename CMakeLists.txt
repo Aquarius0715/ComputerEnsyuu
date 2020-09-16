@@ -3,4 +3,4 @@ project(R2ComputerEnsyu C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(R2ComputerEnsyu main.c)
+add_executable(R2ComputerEnsyu ComputerEnsyuu.c)

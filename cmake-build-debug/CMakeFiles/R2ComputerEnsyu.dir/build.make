@@ -77,27 +77,27 @@ include CMakeFiles/R2ComputerEnsyu.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/R2ComputerEnsyu.dir/flags.make
 
-CMakeFiles/R2ComputerEnsyu.dir/main.c.o: CMakeFiles/R2ComputerEnsyu.dir/flags.make
-CMakeFiles/R2ComputerEnsyu.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/R2ComputerEnsyu.dir/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/R2ComputerEnsyu.dir/main.c.o   -c /Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/main.c
+CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.o: CMakeFiles/R2ComputerEnsyu.dir/flags.make
+CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.o: ../ComputerEnsyuu.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.o   -c /Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/ComputerEnsyuu.c
 
-CMakeFiles/R2ComputerEnsyu.dir/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/R2ComputerEnsyu.dir/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/main.c > CMakeFiles/R2ComputerEnsyu.dir/main.c.i
+CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/ComputerEnsyuu.c > CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.i
 
-CMakeFiles/R2ComputerEnsyu.dir/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/R2ComputerEnsyu.dir/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/main.c -o CMakeFiles/R2ComputerEnsyu.dir/main.c.s
+CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/ComputerEnsyuu.c -o CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.s
 
 # Object files for target R2ComputerEnsyu
 R2ComputerEnsyu_OBJECTS = \
-"CMakeFiles/R2ComputerEnsyu.dir/main.c.o"
+"CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.o"
 
 # External object files for target R2ComputerEnsyu
 R2ComputerEnsyu_EXTERNAL_OBJECTS =
 
-R2ComputerEnsyu: CMakeFiles/R2ComputerEnsyu.dir/main.c.o
+R2ComputerEnsyu: CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.o
 R2ComputerEnsyu: CMakeFiles/R2ComputerEnsyu.dir/build.make
 R2ComputerEnsyu: CMakeFiles/R2ComputerEnsyu.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kitanomasaki/CLionProjects/R2ComputerEnsyu/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable R2ComputerEnsyu"

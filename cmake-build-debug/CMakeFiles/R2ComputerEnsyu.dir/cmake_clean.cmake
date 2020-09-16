@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/R2ComputerEnsyu.dir/main.c.o"
+  "CMakeFiles/R2ComputerEnsyu.dir/ComputerEnsyuu.c.o"
   "R2ComputerEnsyu"
   "R2ComputerEnsyu.pdb"
 )
